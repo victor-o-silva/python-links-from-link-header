@@ -4,7 +4,7 @@ with open('README.rst', 'r') as readme_file:
     readme_txt = readme_file.read()
 
 setup(
-    name='links_from_header',
+    name='links-from-link-header',
     packages=['links_from_header'],
     version='0.1.0',
     description='Python module that extracts links and their relations '
