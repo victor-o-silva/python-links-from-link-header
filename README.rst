@@ -11,6 +11,9 @@ python-links-from-link-header
 .. image:: https://coveralls.io/repos/github/victor-o-silva/python-links-from-link-header/badge.svg?branch=master
    :target: https://coveralls.io/github/victor-o-silva/python-links-from-link-header?branch=master
 
+.. image:: https://badge.fury.io/py/links-from-link-header.svg
+    :target: https://badge.fury.io/py/links-from-link-header 
+
 This Python module contains only one function: ``extract``.
 
 It extracts links and their relations from a Link Header Field [1]_ and
